@@ -35,6 +35,14 @@ A complete 3D CAD assembly of the robot was designed using Fusion 360. This incl
 * Enable pins connected to D5 and D6
 * Common ground used across all components
 
+## Challenges Faced
+
+- Initially connected motor driver incorrectly and debugged wiring while making base model
+- Faced breadboard split issue (A–E vs F–J rows) 
+- Ultrasonic sensor initially gave no readings due to wiring mistakes during simulation in TINKERCAD
+- Fixed grounding issues by ensuring common ground across all components during Simulation in Tinkercad
+- Had to learn how to use fusion360 to make cad files for projects.
+  
 ## Code
 
 See `code.ino`
