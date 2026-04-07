@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Castor Wheel","Balances robot for smooth movement",1,0.50,"https://robu.in/product/castor-wheel-for-robot/","Robu.in"
+"18650 Batteries","Power supply for motors and Arduino",2,2.50,"https://www.amazon.in/s?k=18650+battery","AMAZON"
+"18650 Battery Holder (2-cell)","Holds batteries and powers the system",1,0.70,"https://robu.in/product/18650-battery-holder-2-cell/","Robu.in"
+"Jumper Wires (Male-Male)","Electrical connections between Arduino, sensors, and driver",1,0.80,"https://robu.in/product/40pcs-male-to-male-jumper-wires/","Robu.in"
+"IR Sensor Module (TCRT5000)","Detects line (black/white contrast) for navigation",3,1.20,"https://rees52.com/products/tcrt5000-ir-sensor-module","REES52"
+"2WD Robot Chassis Kit (with motors + wheels)","Mechanical base and drive system for robot movement",1,4.00,"https://robu.in/product/2wd-smart-robot-car-chassis-kit/","Robu.in"
+"L298N Motor Driver Module","Controls motor direction and speed",1,1.50,"https://robu.in/product/l298n-motor-driver-module/","ROBOCRAZE"
+"Aurduino Nano R3","Microcontroller to process sensor data and control motors",1,6.00,"https://robu.in/product/arduino-uno-r3-without-cable/?gad_source=4&gad_campaignid=21296336107&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3c0TA0E_zxSb_k-tTigb7Ig-oP4_QyQzj1Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8_wcB","ROBU.in"
