@@ -64,5 +64,6 @@ See `code.ino`
 
 This is a breadboard-based prototype. The CAD model represents the physical layout and placement of all components for future enclosure design.
 
-##Picture of Base Model
-![Picture of Base Model](base_model.jpg)
+## Picture of Base Model
+![20260406_183853](https://github.com/user-attachments/assets/aa81cab0-629b-4f70-ba69-2f207de86f1f)
+
