@@ -19,11 +19,13 @@ A complete 3D CAD assembly of the robot was designed using Fusion 360. This incl
 
 ### Preview:
 
-![CAD Model](cad.png)
+![CAD Model](cad.jpg)
+!![CAD Model_TOP](cad_top.png)
+![CAD Model_SIDE](cad_side.png)
 
 ## Wiring & Circuit
 
-![Wiring](wiring.png)
+![Wiring](Wiring.png)
 
 ## Wiring Explanation
 
