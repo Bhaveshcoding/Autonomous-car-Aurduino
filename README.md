@@ -7,7 +7,7 @@ This project is an autonomous robot that follows a line using IR sensors and avo
 I built this project to understand how sensors, motor drivers, and microcontrollers work together to create an autonomous system.
 
 ## Images
-!Wiring wiring.png
+![Wiring](Wiring.png)
 
 ## Wiring Explanation
 - IR sensors connected to D12, D7, D4
